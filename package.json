@@ -1,6 +1,6 @@
 {
   "name": "node-uuid-v4",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "title": "UUID v4 for NodeJS",
   "description": "A simple UUID v4 generator for NodeJS.",
   "keywords": [
