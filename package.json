@@ -1,6 +1,6 @@
 {
   "name": "@allthings/uuid",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "title": "UUID v4 for NodeJS",
   "description": "A simple UUID v4 generator for NodeJS.",
   "keywords": [
